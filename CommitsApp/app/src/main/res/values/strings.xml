@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CommitsApp</string>
+    <string name="commits">Commits</string>
+</resources>
